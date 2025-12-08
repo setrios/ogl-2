@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/novell/Documents/VScode-projects/opengl/assimp/cmake_install.cmake",
+		"/home/novell/Documents/VScode-projects/opengl/assimp/code/cmake_install.cmake",
+		"/home/novell/Documents/VScode-projects/opengl/assimp/test/cmake_install.cmake",
+		"/home/novell/Documents/VScode-projects/opengl/assimp/test/headercheck/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
