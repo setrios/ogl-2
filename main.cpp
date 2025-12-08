@@ -7,7 +7,8 @@
 #include <glm/gtc/type_ptr.hpp>
 
 #include "shader.hpp"
-#include "camera_rotation.hpp" // #include "camera.hpp" to fps camera
+// #include "camera_rotation.hpp" // for rotation camera
+#include "camera.hpp" // for fps camera
 #include "model.hpp"
 
 #include <iostream>
