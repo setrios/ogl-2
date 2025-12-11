@@ -1,0 +1,1 @@
+assimp/lib/libassimp.a filter=lfs diff=lfs merge=lfs -text
